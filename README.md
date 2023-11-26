@@ -17,8 +17,6 @@ Link to the challenge- https://www.frontendmentor.io/challenges/product-preview-
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 The "Product Preview Card Component" challenge from Frontend Mentor is a web development challenge designed to improve our skills in building responsive and visually appealing user interfaces. Here's an overview of the challenge:
 
@@ -56,11 +54,14 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2023-11-26 131420](https://github.com/Shinia-Gupta/FMC-Product-Preview-Component/assets/113818197/0d7c05ee-f33d-4204-9666-6aa189d6c6ef)
+
+![Screenshot 2023-11-26 131518](https://github.com/Shinia-Gupta/FMC-Product-Preview-Component/assets/113818197/4ced5276-8318-4afd-92da-689a08f568ac)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://our-solution-url.com)
-- Live Site URL: [Add live site URL here](https://our-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-y8qqxg7SkX
+- Live Site URL: https://shinia-gupta.github.io/FMC-Product-Preview-Component/
 
 ### Built with
 
@@ -71,45 +72,22 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of our major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce our own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with our own learnings.**
+I was able to learn and implement the basic concepts of CSS and recognized the areas of improvement in learning the language.
 
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with our own plans for continued development.**
+I will be foccusing on optimized solutions of the development and working on different frontend technologies to enhance this project.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3 Schools] - https://www.w3schools.com/css/
+- [mdn docs] - https://developer.mozilla.org/en-US/docs/Web/CSS
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing our solution or for ourself when you look back on this project in the future.**
+These two sources have been tremendously helpful to clarify my concepts in using the language.
 
 ## Author
 
-- Frontend Mentor - [@ourusername](https://www.frontendmentor.io/profile/ourusername)
-- L:inkedIn - [@ourusername](https://www.twitter.com/ourusername)
+- Frontend Mentor - [Shinia] https://www.frontendmentor.io/profile/Shinia-Gupta
+- LinkedIn - [Shinia Gupta] https://www.linkedin.com/in/shinia-gupta-a85aa1251/
 
 
 
