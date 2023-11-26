@@ -15,7 +15,6 @@ Link to the challenge- https://www.frontendmentor.io/challenges/product-preview-
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 The "Product Preview Card Component" challenge from Frontend Mentor is a web development challenge designed to improve our skills in building responsive and visually appealing user interfaces. Here's an overview of the challenge:
