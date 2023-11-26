@@ -15,7 +15,7 @@ Link to the challenge- https://www.frontendmentor.io/challenges/product-preview-
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -65,6 +65,8 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://our-solution-url.com)
 - Live Site URL: [Add live site URL here](https://our-live-site-url.com)
+
+## My Process
 
 ### Built with
 
